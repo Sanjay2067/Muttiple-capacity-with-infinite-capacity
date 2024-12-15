@@ -24,8 +24,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 ```
-DEVELOPED BY: Pranav K
-REF NO: 24900545
+DEVELOPED BY: MAGENDRA SANJAY S
+REF NO: 24900652
 
 ```
 ```
